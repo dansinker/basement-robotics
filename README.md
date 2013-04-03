@@ -1,4 +1,4 @@
-basement-robotics
+Basement Robotics: A 3d printed, arduino controlled robot arm
 =================
 
 ![My image](http://dl.dropbox.com/u/6682410/IMG_20130328_210021.jpg)
