@@ -5,6 +5,12 @@ Basement Robotics: A 3d printed, arduino controlled robot arm
 
 So I built a little robot arm in my basement. All the parts that aren't motors are 3d printed. This repo collects both the Arduino code that controls the little guy and the STL files that make up all his bits and pieces. Additionally, there will be a shopping list of parts, circuit diagrams for the breadboard, assembly instructions and more. It is, obviously, a work in progress.
 
+What's in this Repo?
+-----------
+This repo contains all files necessary to print the 3d arm parts and to program your Arduino to control the arm. Naturally, you will need to consult the shopping list for the various bits and pieces you're going to need to actually build the thing. Most importantly, this repo contains
+* [Knob_robotclaw.ino](https://github.com/sinker/basement-robotics/blob/master/Knob_robotclaw.ino) this is the sketch to load into your Arduino.
+* [stl_files_for_arm](https://github.com/sinker/basement-robotics/tree/master/stl_files_for_arm) These are every STL file needed to create 3d prints of the arm parts. There are a lot of files that could probably be brought into Makerware (or equivalent) and printed together. I haven't created any massive grouped files just because so many of these pieces had to be build separately and tweaked until they were right.
+
 Shopping list
 ---------
 * 1 Arduino, obviously.
