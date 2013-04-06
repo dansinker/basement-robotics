@@ -15,12 +15,21 @@ Shopping list
 * 4 potentiometers. I am using three knobs for wrist, elbow, and shoulder control, and then one slide pot for the claw. You could also use a joystick, or all sliders, or whatever you want. 
 * Jumper cable extensions. You're going to be creating a ratsnest of cables and, if you want the arm to have full movement, you're going to need to extend the servo connections and the stepper motor wire at a bare minimum.
 
+Alternate Designs
+---------
+**Servo for the Base Rotation** You could very easily modify the base to be servo-controlled instead of stepper controlled. This has a number of plusses, mainly centered around exact numerical control of position. I personally found that the servos I had felt a little under-powered for rotating the entire arm, and also didn't give me a full 180 degree of motion because of the gear ratio I was using. A stepper, at the end of the day, got the job done easier. 
+
+**Rotational wrist** One thing I don't think I'm building, but would love to see, is a wrist that can be rotated across the claw's center access.
+
+**Linear claw motion** I'm still going to work on this one. I would like to modify the claw design to open and close completely linearly instead of the more pincer-like current design. 
+
+
 
 TODO LIST
 --------
 
 * ~~upload all stl files~~ and images of each piece
-* create shopping list
+* ~~create shopping list~~
 * create circuit diagram
 * assembly instructions
-* notes privisos, etc.
+* notes, privisos, etc.
