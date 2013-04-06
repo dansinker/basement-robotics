@@ -32,4 +32,4 @@ TODO LIST
 * ~~create shopping list~~
 * create circuit diagram
 * assembly instructions
-* notes, privisos, etc.
+* ~~alternative design thoughts~~
